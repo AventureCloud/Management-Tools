@@ -1,4 +1,4 @@
-﻿#Lab- Initial PowerShell Configuration
+#Lab- Initial PowerShell Configuration
 
 #Allow PowerShell to execute scripts
 Set-ExecutionPolicy Unrestricted -force
